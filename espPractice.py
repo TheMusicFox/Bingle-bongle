@@ -175,6 +175,7 @@ def show_performance():
     plt.grid(True)
     plt.savefig("grapho")
 
+load_data()
 
 running = True
 while running:
